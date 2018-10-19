@@ -1,0 +1,8 @@
+version: '3.5'
+services:
+  myapp:
+    image: tana/node-express
+    ports:
+      - "3017:3000"
+    command: "npm start"
+

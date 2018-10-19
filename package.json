@@ -1,7 +1,6 @@
 {
   "name": "my-profile",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +9,15 @@
   "author": "resume_nuchanard",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
-  }
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanatip1996/tanatip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tanatip1996/tanatip/issues"
+  },
+  "homepage": "https://github.com/Tanatip1996/tanatip#readme",
+  "description": ""
 }
